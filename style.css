@@ -37,6 +37,11 @@ p img {
   max-width: 500px;
 }
 
+ul {
+  list-style-type: none;
+  text-align: left;
+}
+
 #start-button {
   border-radius: 10px;
   background-color: lightgray;
